@@ -1,4 +1,4 @@
-# playwright_ui_tests
+# playwright UI and API tests
 
 This repository contains simple automation tests for UI and API using data-driven approach.
 
